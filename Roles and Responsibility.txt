@@ -1,5 +1,5 @@
 Suruthi Raju:  Conext of use and Use case scinarios and flows
 Harshkumar Raval: Domain model and description
-Subhodip Ray: Use case diagram
+Subhodip Ray: Use case diagram and description
 Mahy Salama:  Stakeholders mind map and Use case scinarios and flows
 Tanisha Shah: Activity diagram and description
