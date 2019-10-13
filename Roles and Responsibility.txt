@@ -1,5 +1,18 @@
-Suruthi Raju:  Conext of use and Use case scinarios and flows
-Harshkumar Raval: Domain model and description
-Subhodip Ray: Use case diagram and description
-Mahy Salama:  Stakeholders mind map and Use case scinarios and flows
-Tanisha Shah: Activity diagram and description
+T1 Deliverable
+
+Problem 1:
+	Project description ...Tanisha
+
+Problem 2:
+	Context use ... Suruthi 
+	Stakeholders mind map ... Mahy
+	Interviews...  Subhodip & Harsh
+
+Problem 3:
+	Domain Model ... Harsh
+
+Problem 4:
+	Use Case (1-5) ... Mahy
+	Use Case (6 -10) .... Suruthi
+	Use Case diagram .... Subhodip
+	Activity Diagram .... Tanisha
